@@ -27,7 +27,7 @@ Contrairement à une simple application web (PWA), cette application exploite l'
 
 ## 🎬 Démonstration en vidéo
 
-*(Glisser-déposer la vidéo ici lors de l'édition sur GitHub.com)*
+[Screen_recording_20261109_215952.webm](https://github.com/user-attachments/assets/5178dca0-e8d6-41ab-87f3-b58252b11fa9)
 
 ---
 
